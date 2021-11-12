@@ -1,4 +1,5 @@
 # Shoreline Loot Run
+info taken from Tarkov Wiki
 
 ## West Wing
 
@@ -63,6 +64,7 @@
   - LEDX on the shelves in the dresser behind the door
   - LEDX on the nightstand
   - LEDX in the corner next to the bed on the floor
+  - LION on floor next to weapon box
 
 - 227
   - LEDX on top of washing machine
