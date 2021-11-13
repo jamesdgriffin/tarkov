@@ -16,7 +16,7 @@ info taken from Tarkov Wiki
 - 112
   - BLUE CARD on lowboard bottom left of TV
 
-- 203 (also via 205)
+- 203 (also accessible via 205)
   - RED CARD on floor in front of the nightstand beside the bed closest to the balcony
 
 - 205 (via 203)
@@ -29,7 +29,7 @@ info taken from Tarkov Wiki
   - LEDX desk to the left upon entry
   - GPU
 
-- 218 (also via 221 and 222)
+- 218 (also accessible via 221 and 222)
   - RED CARD on top of water barrel
 
 - 301
@@ -41,6 +41,9 @@ info taken from Tarkov Wiki
 - 311
   - GPU
 
+- 321
+  - SAFE (requires Health Resort west wing room 321 safe key)
+
 
 ## East Wing
 
@@ -48,7 +51,7 @@ info taken from Tarkov Wiki
   - LEDX on white shelves
   - GPU
 
-- 110 (Sanitar's)
+- 110 (Sanitar's Room)
   - LEDX
 
 - 209
@@ -92,6 +95,10 @@ info taken from Tarkov Wiki
 
 - 2nd floor office with safe
   - RED CARD on table in corner under ashtray
+  - SAFE (requires Health Resort management office safe key)
+
+- 2nd floor office
+  - SAFE (requires Health Resort warehouse safe key)
 
 ## Outside
 
@@ -101,6 +108,21 @@ info taken from Tarkov Wiki
 
 - Weather station
   - GPU on second floor in front of server bay
+  - SAFE on second floor
 
 - South-most house in village, in front of tank
   - GPU on counter top
+
+- Gas station
+  - SAFE
+
+- Pier building
+  - SAFE on second floor
+
+## Villas
+
+- Locked Villa (requires Shoreline cottage back door key)
+  - SAFE (requires Shoreline cottage safe key)
+
+- Unlocked Villa
+  - SAFE
