@@ -32,6 +32,9 @@ info taken from Tarkov Wiki
 - 218 (also accessible via 221 and 222)
   - RED CARD on top of water barrel
 
+- 220
+  - RARE
+
 - 301
   - LEDX on top of white cans
   - LEDX in room attached via balcony on desk
@@ -62,18 +65,25 @@ info taken from Tarkov Wiki
 
 - 222
   - GPU
+  - BITCOIN in cardboard box in bathroom
 
 - 226 (via 222)
   - LEDX on the shelves in the dresser behind the door
   - LEDX on the nightstand
   - LEDX in the corner next to the bed on the floor
   - LION on floor next to weapon box
+  - BITCOIN next to weapon box
 
 - 227
   - LEDX on top of washing machine
 
 - 306
   - LEDX
+  - BITCOIN to the right of the laptop on the mattress
+
+- 310
+  - BITCOIN on desks
+  - ROLER
 
 - 313 (via 314)
   - LEDX on top of boxes
