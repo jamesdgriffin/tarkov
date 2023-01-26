@@ -135,8 +135,8 @@ only shows high value loot items
 
 ## Villas
 
-- Locked Villa (requires Shoreline cottage back door key)
-  - SAFE (requires Shoreline cottage safe key)
+- Locked Villa (requires Shoreline cottage back door key*)
+  - SAFE (requires Shoreline cottage safe key*)
 
 - Unlocked Villa
   - SAFE
