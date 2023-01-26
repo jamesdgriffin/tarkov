@@ -58,7 +58,7 @@ only shows high value loot items
   - LEDX on white shelves
   - GPU
 
-- 110* (Sanitar's Room)
+- 110* (Tape Key)
   - LEDX
 
 - 209
