@@ -1,5 +1,6 @@
 # Shoreline Loot Run
-info taken from Tarkov Wiki
+info taken from Tarkov Wiki  
+
 \* key required
 
 ## West Wing
