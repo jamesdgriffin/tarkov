@@ -1,5 +1,6 @@
 # Shoreline Loot Run
 info taken from Tarkov Wiki
+*key required
 
 ## West Wing
 
@@ -9,33 +10,33 @@ info taken from Tarkov Wiki
 - Basement
   - RED CARD in gym locker
 
-- 104
+- 104*
   - LEDX
   - BLUE CARD on desk between lamp and files
 
-- 112
+- 112*
   - BLUE CARD on lowboard bottom left of TV
 
-- 203 (also accessible via 205)
+- 203* (also accessible via 205)
   - RED CARD on floor in front of the nightstand beside the bed closest to the balcony
 
-- 205 (via 203)
+- 205* (via 203)
   - LEDX on nightstand
   - LEDX to the right of toolbox
   - GPU
 
-- 216
+- 216*
   - LEDX on ammo boxes to the left upon entry
   - LEDX desk to the left upon entry
   - GPU
 
-- 218 (also accessible via 221 and 222)
+- 218* (also accessible via 221 and 222)
   - RED CARD on top of water barrel
 
-- 220
+- 220*
   - RARE
 
-- 301
+- 301*
   - LEDX on top of white cans
   - LEDX in room attached via balcony on desk
   - LEDX in room attached via balcony on bed
@@ -45,16 +46,16 @@ info taken from Tarkov Wiki
   - GPU
 
 - 321
-  - SAFE (requires Health Resort west wing room 321 safe key)
+  - SAFE (requires Health Resort west wing room 321 safe key*)
 
 
 ## East Wing
 
-- Office 107
+- Office 107*
   - LEDX on white shelves
   - GPU
 
-- 110 (Sanitar's Room)
+- 110* (Sanitar's Room)
   - LEDX
 
 - 209
@@ -63,11 +64,11 @@ info taken from Tarkov Wiki
 - 221 (via 218)
   - RED CARD on table with laptop
 
-- 222
+- 222*
   - GPU
   - BITCOIN in cardboard box in bathroom
 
-- 226 (via 222)
+- 226 (via 222*)
   - LEDX on the shelves in the dresser behind the door
   - LEDX on the nightstand
   - LEDX in the corner next to the bed on the floor
@@ -77,18 +78,18 @@ info taken from Tarkov Wiki
 - 227
   - LEDX on top of washing machine
 
-- 306
+- 306*
   - LEDX
   - BITCOIN to the right of the laptop on the mattress
 
-- 310
+- 310*
   - BITCOIN on desks
   - ROLER
 
-- 313 (via 314)
+- 313* (via 314*)
   - LEDX on top of boxes
 
-- 328
+- 328*
   - LEDX
   - GPU
 
@@ -105,10 +106,10 @@ info taken from Tarkov Wiki
 
 - 2nd floor office with safe
   - RED CARD on table in corner under ashtray
-  - SAFE (requires Health Resort management office safe key)
+  - SAFE (requires Health Resort management office safe key*)
 
 - 2nd floor office
-  - SAFE (requires Health Resort warehouse safe key)
+  - SAFE (requires Health Resort warehouse safe key*)
 
 ## Outside
 
